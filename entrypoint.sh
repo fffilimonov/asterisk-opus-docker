@@ -1,3 +1,3 @@
 #!/bin/bash
 
-/usr/sbin/asterisk -vvvc
+/usr/sbin/asterisk -fvvv
